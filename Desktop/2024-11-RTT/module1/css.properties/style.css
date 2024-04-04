@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+h1{font: 'bungee spice';
+        font-size: 48px;
+        color: red;
+    }
+    h2{
+        color: blue;
+    }
+    body{
+        background-color: aqua;
+    }
+  
+    form{
+        width: 320px;
+        height: 390px;
+        background: red;
+        background-position: center;
+        box-shadow: 5px 40px 60px rgba(0, 0, 0, 6);
+        border-radius: 20px;
+        align-items: center;
+        align-content: center;
+        
+         }
+    div{
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+       }
+   
+    
+    input{
+        color: blueviolet;
+    }
+   button{
+    color: green;
+   }
+
